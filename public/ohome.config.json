@@ -1,0 +1,9 @@
+{
+  "kind": "firebase",
+  "apiKey": "AIzaSyAtrCfPXC1v6aIc04epilduPgwpmXjDfq0",
+  "authDomain": "baguette-world.firebaseapp.com",
+  "projectId": "baguette-world",
+  "storageBucket": "baguette-world.firebasestorage.app",
+  "appId": "1:75526727265:web:5edef1b4a5280f4bdd6c20",
+  "messagingSenderId": "75526727265"
+}
